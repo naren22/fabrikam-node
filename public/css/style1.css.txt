@@ -1,0 +1,54 @@
+aQ 2,3,4,5, 7,8,9,11,22,24,29,33,52,51
+
+Who all can you provide access to using sharing rules/manual sharing
+- profiles
+- public groups
+- queues
+- User
+
+Sharing settings are set to private - user runs a report which records would he see - 
+
+- own records
+- all records
+- records of users below hierarchy
+- above hierarchy
+
+
+some logic is to be executed 30 days before the close date what will you use 
+- escalation rule
+- workflow rule
+other options 
+
+what can you do using process visualizer
+- add an approval step 
+- view the diagramatic representation of the process
+- other options
+
+which objects have one to many relationship with the account object 
+- Opportunity
+- CAse
+- Campaign
+- Leads
+
+Account is the primary object and contact secondary in a report type. what options can you select 
+- 1 account must have a contact
+- a contact must have a related account
+- a contact must not have a related account
+- account must not have a related contact
+
+Want to enable editing in list views. How?
+- enable inline editor
+- enable enhances list views
+- enable enhaced page layout editor
+
+user wants read only access to other user's opportunity. what access should be given to his profile
+- view all on Opportunity
+
+
+
+
+
+
+
+
+
